@@ -1,5 +1,6 @@
 # GIT
-# New repository in Git 
+
+## New repository in Git
 
 To create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
 _перехід (c0)-(c1)
