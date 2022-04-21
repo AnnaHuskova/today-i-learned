@@ -1,5 +1,6 @@
 # GIT
-## Git: to create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
+## New repository in Git: 
+to create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
 _перехід (c0)-(c1)
 -------------
 To create a BRANCH - command: git branch newName - now the branche links to commit_(c1)
