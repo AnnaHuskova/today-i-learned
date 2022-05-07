@@ -2,6 +2,28 @@
 
 ## New repository in Git
 
+- Add USER and EMAil _before_ to make a command "Git Commit"
+1. "git config user.name"
+2. "git config user.email"
+-----------------------------
+
+_Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
+_After to do a commnad 'GIT ADD' - git start to control the added files - it means that the files moved to STAGING AREA
+1. git status
+than - move to STAGING AREA
+2. git add _fileName (not directory)
+3. _againe - git status
+_THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FILE_
+4. to move ALL files from directory to _STAGING AREA
+-_command:_ 'git add . '
+after this all files from directory will move to _Staging Area_
+!! to UnStage -to remove files from staging area _to use a command:
+- git restore --stages _fileName
+
+
+5. git commit -m "second commit"
+   '-m' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
+
 To create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
 _перехід (c0)-(c1)
 -------------
