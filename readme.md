@@ -17,12 +17,13 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
 4. to move ALL files from directory to _STAGING AREA
 -_command:_ 'git add . '
 after this all files from directory will move to _Staging Area_
+
 !! to UnStage -to remove files from staging area _to use a command:
 - git restore --stages _fileName
 
 
 5. git commit -m "second commit"
-   '-m' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
+   '-m "_description"' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
 -----------------------
 - To create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
 _перехід (c0)-(c1)
