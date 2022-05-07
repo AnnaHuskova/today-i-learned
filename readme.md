@@ -56,7 +56,7 @@ To Sum Up
 1. git rebase prName (main)
 2. git checkout prName (main)
 3. git rebase childName
-----------------------------------
+--------------------------------
 
 
 
