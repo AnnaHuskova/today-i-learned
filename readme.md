@@ -23,8 +23,8 @@ after this all files from directory will move to _Staging Area_
 
 5. git commit -m "second commit"
    '-m' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
-
-To create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
+-----------------------
+- To create a repository and commit new change - command: git commit (c0)-(c1)-(c2)
 _перехід (c0)-(c1)
 -------------
 To create a BRANCH - command: git branch newName - now the branche links to commit_(c1)
