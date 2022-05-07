@@ -7,7 +7,7 @@
 2. "git config user.email"
 -----------------------------
 
-_Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
+- _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git start to control the added files - it means that the files moved to STAGING AREA
 1. git status
 than - move to STAGING AREA
