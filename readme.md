@@ -58,7 +58,7 @@ To Sum Up
 2. git checkout prName (main)
 3. git rebase childName
 --------------------------------
-- HASH - _individual namberName of a commit
+- HASH -_is an individual namberName of a commit
 - HAED of commit _maens the strage/version of document which is in wrok currently
 
 
