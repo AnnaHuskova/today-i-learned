@@ -60,6 +60,15 @@ To Sum Up
 --------------------------------
 - HASH _is an individual namberName of a commit
 - HAED of commit _means the strage/version of document which is in wrok currently
+--------------------------------
+
+# GIT to GitHub
+
+
+# HOW TO OPEN VS Code from GitBash Terminal
+- in TERMINAL command: _code ._
+VS Code is opened
+
 
 
 
