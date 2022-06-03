@@ -65,10 +65,14 @@ To Sum Up
 # GIT to GitHub
 
 
-# HOW TO OPEN VS Code from GitBash Terminal
+### HOW TO OPEN VS Code from GitBash Terminal
 - in TERMINAL command: '_code ._'
 
 = VS Code is opened
+
+### HOW TO OPEN _TERMINAL_ in VS Code
+Ctrl + ~ 'tilda'
+
 
 
 
