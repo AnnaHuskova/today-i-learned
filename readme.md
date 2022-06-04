@@ -65,8 +65,8 @@ To Sum Up
 
 # GIT to GitHub
 Before is important:
--> to add repository to GitHub (to create an accont on GitHub)
--> to `'fork'` 
+* to add repository to GitHub (to create an accont on GitHub)
+* to `'fork'` 
 
 
 ### HOW TO OPEN VS Code from GitBash Terminal
