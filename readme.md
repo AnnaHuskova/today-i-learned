@@ -23,7 +23,7 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
    '-m "_description"' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to add the information about the file.
    
  ### to do COMMIT WITHOUT additional command 'git add' _should to do_:
- - command: _git commit -a -m "commitName"_ - allow to move files to staging area and to do commit - !AT ONCE
+ - command: _git commit -a -m "commitName"_ - allow to move files to staging area and to do commit - ###AT ONCE
  
 -----------------------
 - To create a repository and commit new change - command: _git commit_ (c0)-(c1)-(c2)
