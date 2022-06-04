@@ -66,8 +66,9 @@ To Sum Up
 # GIT to GitHub
 Before is important:
 * to add repository to GitHub (to create an accont on GitHub)
-* to `'fork'` repository from GitH _`'elesk/fork-me'`_ to my account _`'Anna/fork-me'`_
+* to `'fork'` repository from GitH _`'eleks/fork-me'`_ to my account _`'Anna/fork-me'`_
 * to `'clone'` repository from my own GitHub _account_ to my _local computer_
+command: `'clone' + link (HTTPS/SSH)` for example _https://github.com/AnnaHuskova/fork-me.git_ (link from my GitHub FORKED repository 'code' buttom)
 
 
 ### HOW TO OPEN VS Code from GitBash Terminal
