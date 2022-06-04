@@ -76,7 +76,7 @@ Before is important:
 = VS Code is opened
 
 ### HOW TO OPEN _TERMINAL_ in VS Code
-Ctrl + ~ 'tilda'
+`Ctrl + ~ 'tilda'`
 
 ----------------------
 ## REMOTE REPOSITORY connection (віддалений репозеторій)
