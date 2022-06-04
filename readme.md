@@ -80,6 +80,7 @@ before to do _`git push`_ -> it is neccesary to do _`git token`_
 before to do _`git token`_ -> it is important to do _`git remote -v`_
 - How to connect with GitHub :  
 command: _`git push`_ (means to move the chenges somwhere)
+
 command: _`git push origin main`_ (means to move changes to DIRECT to DEFINE Remote and Branch - до визначеного віддал.репозиторію та папки) 
 - enter: *Username *password 
  
