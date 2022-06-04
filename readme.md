@@ -71,7 +71,6 @@ Before is important:
 
 command: `'clone' + link (HTTPS/SSH)` for example _https://github.com/AnnaHuskova/fork-me.git_ (link from my GitHub FORKED repository 'code' buttom)
 
-
 ### HOW TO OPEN VS Code from GitBash Terminal
 - in TERMINAL command: `'code .'`
 
@@ -82,8 +81,8 @@ command: `'clone' + link (HTTPS/SSH)` for example _https://github.com/AnnaHuskov
 
 ----------------------
 ## REMOTE REPOSITORY connection (віддалений репозеторій)
-before to do _`'git push'`_ -> it is neccesary to do _`'git token'`_.
-before to do _`'git token'`_ -> it is important to do _`'git remote -v'`_
+before to do _`'git push'`_  `->`  it is neccesary to do _`'git token'`_.
+before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 * _`'git remote'`_ - shows all remote repository which i manage
 * 
 
