@@ -10,8 +10,7 @@
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git start to control the added files - it means that the files moved to STAGING AREA
 1. _git status_
-*than - move to STAGING AREA
-2.to move ALL files from directory to _STAGING AREA
+2. to move ALL files from directory to _STAGING AREA
 -_command:_ 'git add . '
 after this all files from directory will move to _Staging Area_
 3. _againe - git status
@@ -21,7 +20,7 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
 - git restore --stages _fileName
 
 
-5. git commit -m "second commit"
+4. *git commit -m "second commit"
    '-m "_description"' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
 -----------------------
 - To create a repository and commit new change - command: _git commit_ (c0)-(c1)-(c2)
