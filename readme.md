@@ -26,8 +26,8 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
  - command: _git commit -a -m "commitName"_ - allow to move files to staging area and to do commit - AT ONCE
  
 -----------------------
-- To create a repository and commit new change - command: _git commit_ (c0)-(c1)-(c2)
-_перехід (c0)-(c1)
+- To create a repository and commit new change - command: _git commit_ `(c0)-(c1)-(c2)`
+_перехід `(c0)-(c1)`
 -------------
 To create a BRANCH - command: git branch newName - now the branche links to commit_(c1)
 Before adding 'NEW commit' is important to MOVE to new (created) BRANCH - command: git checkout [nemName]
