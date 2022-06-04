@@ -76,7 +76,7 @@ Ctrl + ~ 'tilda'
 
 ----------------------
 ## REMOTE REPOSITORY connection (віддалений репозеторій)
-before to do git push it is neccesary to do ##git token
+before to do _'git push'_ it is neccesary to do _'git token'_
 - How to connect with GitHub :  
 command: _git push
 - enter: *Username *password
