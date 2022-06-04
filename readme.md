@@ -12,7 +12,7 @@ _After to do a commnad 'GIT ADD' - git start to control the added files - it mea
 1. _git status_
 2. to move ALL files from directory to _STAGING AREA
 * command: _'git add . '_
-after this all files from directory will move to _Staging Area_
+* after this all files from directory will move to _Staging Area_
 3. _againe - git status
 _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FILE_
 
