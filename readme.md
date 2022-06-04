@@ -66,7 +66,7 @@ To Sum Up
 # GIT to GitHub
 Before is important:
 * to add repository to GitHub (to create an accont on GitHub)
-* to `'fork'` repository from GitH _'elesk/fork-me'`_to my account _'Anna/fork-me'`_
+* to `'fork'` repository from GitH _`'elesk/fork-me'`_ to my account _`'Anna/fork-me'`_
 * 
 
 
