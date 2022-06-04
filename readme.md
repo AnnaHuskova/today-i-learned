@@ -10,9 +10,9 @@
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git start to control the added files - it means that the files moved to STAGING AREA
 1. git status
-than - move to STAGING AREA
-2. git add _fileName (not directory)
-3. _againe - git status
+ than - move to STAGING AREA
+4. git add _fileName (not directory)
+5. _againe - git status
 _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FILE_
 4. to move ALL files from directory to _STAGING AREA
 -_command:_ 'git add . '
