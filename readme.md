@@ -74,6 +74,9 @@ To Sum Up
 ### HOW TO OPEN _TERMINAL_ in VS Code
 Ctrl + ~ 'tilda'
 
+----------------------
+ ## to connect with REMOTE REPOSITORY (віддалений репозеторій)
+
 
 
 
