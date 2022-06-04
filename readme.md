@@ -78,6 +78,8 @@ Ctrl + ~ 'tilda'
 ## REMOTE REPOSITORY connection (віддалений репозеторій)
 before to do _`'git push'`_ -> it is neccesary to do _`'git token'`_.
 before to do _`'git token'`_ -> it is important to do _`'git remote -v'`_
+* _`'git remote'`_ - shows all remote repository which i manage
+* 
 
 - How to connect with GitHub :
  1. command: _`'git push'`_ (means to move the chenges somwhere)
