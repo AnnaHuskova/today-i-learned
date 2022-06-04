@@ -18,10 +18,11 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
 
 !! to UnStage -to remove files from staging area _to use a command:
 - git restore --stages _fileName
-
-
+- 
 4. *git commit -m "second commit"
    '-m "_description"' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
+   
+ !!! to 
 -----------------------
 - To create a repository and commit new change - command: _git commit_ (c0)-(c1)-(c2)
 _перехід (c0)-(c1)
