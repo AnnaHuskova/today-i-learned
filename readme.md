@@ -76,7 +76,7 @@ Ctrl + ~ 'tilda'
 
 ----------------------
  ## REMOTE REPOSITORY connection (віддалений репозеторій)
- - how to connect with GitHub
+How to connect with GitHub
 ! comand: _git push
 - enter: *Username *password
  
