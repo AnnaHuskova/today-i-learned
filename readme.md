@@ -71,7 +71,7 @@ Before is important:
 
 
 ### HOW TO OPEN VS Code from GitBash Terminal
-- in TERMINAL command: '_code ._'
+- in TERMINAL command: `'code .'`
 
 = VS Code is opened
 
