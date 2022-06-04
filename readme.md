@@ -75,7 +75,11 @@ To Sum Up
 Ctrl + ~ 'tilda'
 
 ----------------------
- ## to connect with REMOTE REPOSITORY (віддалений репозеторій)
+ ## REMOTE REPOSITORY connection (віддалений репозеторій)
+ - how to connect with GitHub
+! comand: _git push
+- enter: *Username *password
+ 
 
 
 
