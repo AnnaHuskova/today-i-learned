@@ -20,7 +20,7 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
 - git restore --stages _fileName
 
 4. *git commit -m "second commit"
-   '-m "_description"' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to ad the information about the file.
+   '-m "_description"' - MASSEDGE; allow to make the DESCRIPTION direcltly / to do the commit DIRECTLY, without additional window to add the information about the file.
    
  ### to do COMMIT WITHOUT additional command 'git add' _should to do_:
  - command: _git commit -a -m "commitName"_ allow to move files to staging area and to do commit - AT ONCE
