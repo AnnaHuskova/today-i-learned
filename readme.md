@@ -1,7 +1,7 @@
 # GIT
 
 ## New repository in Git
-
+- _`'git init'`_ - to create a new repository 
 - Add USER and EMAil _before_ to make a command "Git Commit"
 1. "git config user.name"
 2. "git config user.email"
