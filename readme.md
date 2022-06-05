@@ -94,7 +94,8 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 !!! `Local repository` can send changes to `remote repository`
 
 Щоб відправити дані на віддалений репозиторій - необхідно створити `token`
--`token` створюється у GitHub 
+
+- `token` створюється у GitHub 
 
 
 
