@@ -95,7 +95,7 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 
 Щоб відправити дані на віддалений репозиторій - необхідно створити `token`
 
- - `token` створюється у GitHub: my account -> `settings` -> `developer settings` -> `personal access tokens` -> `generate new token`
+ - `token` створюється у GitHub аккаунті та працює з усіма моїми репозіторіями: my account -> `settings` -> `developer settings` -> `personal access tokens` -> `generate new token`
 
 
 
