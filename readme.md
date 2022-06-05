@@ -92,7 +92,9 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 - enter: *Username *password _
 
 !!! `Local repository` can send changes to `remote repository`
-Щоб выд
+
+Щоб відправити дані на віддалений репозиторій - необхідно створити `token`
+
 
 
 
