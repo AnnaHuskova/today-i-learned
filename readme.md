@@ -87,10 +87,12 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 * 
 
 - How to connect with GitHub :
- 1. command: _`'git push'`_ (means to move the chenges somwhere)
+ 1. command: _`'git push'`_ (means to move the chfnges somewhere)
  2. command: _`'git push origin main'`_ (means to move changes to DIRECT to DEFINE Remote and Branch - до визначеного віддал.репозиторію та папки) 
-- enter: *Username *password 
- 
+- enter: *Username *password _
+
+!!! `Local repository` can send changes to `remote repository`
+Щоб выд
 
 
 
