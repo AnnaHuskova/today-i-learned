@@ -87,15 +87,23 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 * 
 
 - How to connect with GitHub :
- 1. command: _`'git push'`_ (means to move the chfnges somewhere)
- 2. command: _`'git push origin brancheName'`_ - origin it is name of the terminal (means to move changes to DIRECT to DEFINE Remote and Branch - до визначеного віддал.репозиторію та папки) 
-- enter: *Username *password _
 
 !!! `Local repository` can send changes to `remote repository`
 
 Щоб відправити дані на віддалений репозиторій - необхідно створити `token`
 
  - `token` створюється у GitHub аккаунті та працює з усіма моїми репозіторіями: my account -> `settings` -> `developer settings` -> `personal access tokens` -> `generate new token`
+
+- command: `git remote add origin http://link of token @ link of githab repository .git` - або відредагувати оріджін всередені vs code
+- command: `git remote -v` - to absorve all repository 
+
+
+
+ 1. command: _`'git push'`_ (means to move the chfnges somewhere)
+ 2. command: _`'git push origin brancheName'`_ - origin it is name of the terminal (means to move changes to DIRECT to DEFINE Remote and Branch - до визначеного віддал.репозиторію та папки) 
+
+
+
 
 
 
