@@ -102,7 +102,9 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
  2. command: _`'git push origin brancheName'`_ - origin it is name of the terminal (means to move changes to DIRECT to DEFINE Remote and Branch - до визначеного віддал.репозиторію та папки) 
 
 ! To connect _main_ local branch with remote branche:
-- commnad: _`git push -u origin master`_ - `-u` is upstream - для цієїж гілки `main` роблю зв'язок з такою ж гілкоюна віддаленому репозиторії 
+- commnad: _`git push -u origin main`_ - `-u` is upstream - для цієїж гілки `main` роблю зв'язок з такою ж гілкоюна віддаленому репозиторії;
+
+
 
 
 
