@@ -98,9 +98,12 @@ before to do _`'git token'`_  `->`  it is important to do _`'git remote -v'`_
 - command: `git remote -v` - to absorve all repository 
 
 
-
  1. command: _`'git push'`_ (means to move the chfnges somewhere)
  2. command: _`'git push origin brancheName'`_ - origin it is name of the terminal (means to move changes to DIRECT to DEFINE Remote and Branch - до визначеного віддал.репозиторію та папки) 
+
+! To connect _main_ local branch with remote branche:
+- commnad: _`git push -u origin master`_
+
 
 
 
