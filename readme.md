@@ -9,7 +9,7 @@
 ## Commands to work in derictory
 - _`touch main.js`_ - to create new file
 - _`mkdir`_ - to create new repository
-- _`ls`_ - to observe === visible files in directory
+- _`ls`_ - to observe #### visible files in directory
 - _`ls -a`_ - to observe all files in directory (unvisible also)
 - _`cp foo.txt bar.txt`_ - to copy file in directory  => _cp ./foo.txt ./bar.txt_
 - _`mv foo.txt ../foo-3.txt`_ - to move+copy file to upper directory                             
