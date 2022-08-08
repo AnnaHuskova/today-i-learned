@@ -6,15 +6,18 @@
 1. "git config user.name"
 2. "git config user.email"
 ----------------------------
-### Commands to work in derictory
+## Commands to work in derictory
 - _`touch main.js`_ - to create new file
 - _`mkdir`_ - to create new repository
--_ `ls`_ - to observe *visible files in directory
--_`ls -a`_ - to observe 
+- _`ls`_ - to observe *visible files in directory
+- _`ls -a`_ - to observe all files in directory (unvisible also)
+- _`cp foo.txt bar.txt`_ - to copy file in directory  => _cp ./foo.txt ./bar.txt_
+- _`mv foo.txt ../foo-3.txt`_ - to move+copy file to upper directory                             
+- 
 
 
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
-_After to do a commnad 'GIT ADD' - git start to control the added files - it means that the files moved to STAGING AREA
+_After to do a commnad 'GIT ADD' - git starts to control the added files - it means that the files moved to STAGING AREA
 1. _git status_
 2. to move ALL changes/files from directory to _STAGING AREA
 * command: _'git add . '_
