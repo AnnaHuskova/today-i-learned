@@ -5,7 +5,13 @@
 - Add USER and EMAil _before_ to make a command "Git Commit"
 1. "git config user.name"
 2. "git config user.email"
------------------------------
+----------------------------
+### Commands to work in derictory
+- _`touch main.js`_ - to create new file
+- _`mkdir`_ - to create new repository
+-_ `ls`_ - to observe *visible files in directory
+-_`ls -a`_ - to observe 
+
 
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git start to control the added files - it means that the files moved to STAGING AREA
