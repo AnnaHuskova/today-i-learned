@@ -12,9 +12,16 @@
 - _`ls`_ - to observe visible files in directory
 - _`ls -a`_ - to observe all files in directory (unvisible also)
 - _`cp foo.txt bar.txt`_ - to copy file in directory  => _cp ./foo.txt ./bar.txt_
-- _`mv foo.txt ../foo-3.txt`_ - to move+copy file to upper directory                             
+- _`mv foo.txt ./folderName`_ - to move+copy file to upper directory  =>   _`mv foo.txt ../folderName`_ - to move files to down directoty                         
 - _`cat foo.txt`_ - to observe the content of the file
 - _`rm`_ - to deleta a file or repository
+
+## Movement between directories
+- _`cd`_ - to move to the base
+- _`cd /d`_ to move to the disk d 
+- _`cd /d/folderName` - to move to the directory on disk D
+- _`cd /d/folderNam/folderProgect`_ - to move to the initial directory
+- _`cd ../` - move to the down directory (previous directory which contains this foldre) => we got the way from `cd /d/folderNam/folderProgect` to `cd /d/folderNam`
 
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git starts to control the added files - it means that the files moved to STAGING AREA
