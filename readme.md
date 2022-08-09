@@ -21,8 +21,8 @@
 - _`cd /d`_ to move to the disk d 
 - _`cd /d/folderName` - to move to the directory on disk D
 - _`cd /d/folderNam/folderProgect`_ - to move to the initial directory
-- _`cd ../` - move to the down directory (previous directory which contains this foldre) => we will got the way 
-from `cd /d/folderNam/folderProgect` to `cd /d/folderNam`
+- _`cd ../` - move to the down directory (previous directory which contains this foldre) => we will got the way
+=> from `cd /d/folderNam/folderProgect` => to `cd /d/folderNam`
 
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git starts to control the added files - it means that the files moved to STAGING AREA
