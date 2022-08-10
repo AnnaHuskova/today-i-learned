@@ -26,6 +26,8 @@
 - _`cd ../` - move to the down directory (previous directory which contains this foldre) :
 => we will got the way => from `cd /d/folderNam/folderProgect` => to `cd /d/folderNam`
 
+##To work with commits
+
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
 _After to do a commnad 'GIT ADD' - git starts to control the added files - it means that the files moved to STAGING AREA
 1. _git status_
@@ -45,7 +47,11 @@ _THAN to do 'GIT COMMIT" - this allow to FIX (remember) CURRENT STATUS OF THE FI
  - command: _git commit -a -m "commitName"_ - allow to move files to staging area and to do commit - AT ONCE
 
 ### * ! _`git log`_ - to check the commit in the repository: it shows  _hash_  , _Autor_  , _Date_   of the commit;  
+
+### Hoe to delete the commits
+-_`git reset --soft HEAD^1`_ - to delete the last commit 
  
+
 -----------------------
 - To create a repository and commit new change - command: _git commit_ `(c0)-(c1)-(c2)`
 _перехід `(c0)-(c1)`
