@@ -17,7 +17,9 @@
 - _`rm`_ - to deleta a file or repository
 
 ## Movement between directories
-#### comands-general sintacsis: _cd /d_ - move to disk / _cd ./folderName_ - move to folder / _cd ../_ - move to upper folder
+#### comands-general sintacsis:
+-`cd /d` - move to disk / `cd ./folderName` - move to folder / `cd ../` - move to upper folder
+#### coment for movenet
 - _`cd`_ - to move to the base
 - _`cd /d`_ to move to the disk d 
 - _`cd /d/folderName` - to move to the directory on disk D
