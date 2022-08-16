@@ -18,9 +18,9 @@
 
 ## Movement between directories
 #### comands-general sintacsis:
--`cd /d` - move to disk 
--`cd ./folderName` - move to folder
--`cd ../` - move to upper folder
+-`cd /d` - move to disk_ 
+-`cd ./folderName` - move to folder_
+-`cd ../` - move to upper folder_
 #### commands for movement:
 - _`cd`_ - to move to the base
 - _`cd /d`_ to move to the disk d 
