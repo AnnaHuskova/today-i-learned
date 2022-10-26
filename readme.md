@@ -73,7 +73,7 @@ To sum up: to create new branche and commit
 Branches and that MERGER: the approach to connect the information from a few or more branches  
 1 - git merge 
 merge - злипити 
-This ALLOW to create the specific commit which containe TWO uniq 'parents'; it means that this commit involve information from both parents and predecessors (попередники)
+This ALLOW to create the specific commit which containe TWO uniq 'parents'; it means that this commit involve information from both parents and predecessors (попередники) 
 This approach is beneficcial when we have few different branches wirh lesss work information
 command: - git merge newName (останнє ім'я створене в істроії)
 мерджити за останнім ім'ям що було створено з попередників (при мерджі за ім'ям попередника гілки зіль'ються але імя останнього не перейде до нової 'злитої' гілки
