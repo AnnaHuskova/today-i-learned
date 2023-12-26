@@ -31,6 +31,9 @@
 - _`cd ../` - move to the down directory (previous directory which contains this foldre) :
 => we will got the way => from `cd /d/folderNam/folderProgect` => to `cd /d/folderNam`
 
+![image](https://github.com/AnnaHuskova/today-i-learned/assets/102426063/946f2282-aeff-4a2f-a026-15c4a6b43adc)
+
+
 ## To work with commits
 
 - _Before to do Git Commit - IS IMPORTANT to do command_'Git Status"
